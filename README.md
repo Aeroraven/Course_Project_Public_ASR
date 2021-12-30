@@ -1,2 +1,2 @@
-### Course Project / Acoustic Speech Recognition
-Course Assignments for Acoustic Speech Recognition Tongji Univ
+### Course Project / Speech Recognition
+Course Assignments for Speech Recognition Tongji Univ
