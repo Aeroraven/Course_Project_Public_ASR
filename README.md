@@ -1,2 +1,2 @@
-# Course_Project_Public_ASR
+# Course Project / Acoustic Speech Recognition
 Course Assignments for Acoustic Speech Recognition Tongji Univ
